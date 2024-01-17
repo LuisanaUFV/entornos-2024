@@ -13,6 +13,7 @@ public class Ejercicio01 {
 		boolean es_vocal = false;
 		
 		System.out.println("Estamos en método esVocal.");
+		if (true) es_vocal = true;
 		
 		return es_vocal;
 	}
